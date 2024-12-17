@@ -1,0 +1,20 @@
+{
+    "name": "icpo/logs-activity",
+    "description": "Logs Activity",
+    "type": "library",
+    "require": {
+        "php": "^8.2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Icpo\\LogsActivity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ICPO",
+            "email": "infuzia216@gmail.com"
+        }
+    ]
+}
